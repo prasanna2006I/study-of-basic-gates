@@ -79,8 +79,8 @@ xnor(xnorgate,a,b);
 endmodule
 ```
 
- Developed by: PRASANNA I
- RegisterNumber:212223220079
+### Developed by: PRASANNA I
+  ### RegisterNumber:212223220079
 
 **RTL realization Output:** 
 ![Screenshot 2024-08-28 113251](https://github.com/user-attachments/assets/04c3ebc6-a02b-45d7-92d6-721270bafdfc)
