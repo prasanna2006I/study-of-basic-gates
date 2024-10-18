@@ -82,7 +82,9 @@ endmodule
 ### Developed by: PRASANNA I
   ### RegisterNumber:212223220079
 
-**RTL realization Output:** 
+**RTL realization Output:**
+![Screenshot 2024-10-18 185600](https://github.com/user-attachments/assets/a9dbbcb1-9174-42a5-ba32-1c6fe2a8b225)
+
 ![Screenshot 2024-08-28 113251](https://github.com/user-attachments/assets/04c3ebc6-a02b-45d7-92d6-721270bafdfc)
 
 
