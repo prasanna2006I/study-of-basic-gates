@@ -64,6 +64,9 @@ Y= A⊕B
 
 **PROGRAM**
 
+### Developed by: PRASANNA I
+  ### RegisterNumber:212223220079
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
 module Logic_Gates(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
@@ -79,12 +82,11 @@ xnor(xnorgate,a,b);
 endmodule
 ```
 
-### Developed by: PRASANNA I
-  ### RegisterNumber:212223220079
-
-**RTL realization Output:**
+# TRUTH TABLE
 ![Screenshot 2024-10-18 185600](https://github.com/user-attachments/assets/a9dbbcb1-9174-42a5-ba32-1c6fe2a8b225)
-
+**RTL**
+![image](https://github.com/user-attachments/assets/8694cc74-f46e-4c4f-a859-c95a49113d21)
+# TING WAVEFORM
 ![Screenshot 2024-08-28 113251](https://github.com/user-attachments/assets/04c3ebc6-a02b-45d7-92d6-721270bafdfc)
 
 
